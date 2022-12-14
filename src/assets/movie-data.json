@@ -1,0 +1,108 @@
+[
+    {
+      "name": "How to Lose a Guy in 10 Days",
+      "rating": "42",
+      "length": 116,
+      "genre": "Rom Com",
+      "image": "images/how_to_lose_a_guy.jpeg"
+    },
+    {
+      "name": "Speed",
+      "rating": "94",
+      "length": 116,
+      "genre": "Action",
+      "image": "images/speed.jpeg"
+    },
+    {
+      "name": "The Hunger Games",
+      "rating": "84",
+      "length": 142,
+      "genre": "Dystopian",
+      "image": "images/hunger games.jpeg"
+    },
+    {
+      "name": "Wimbledon",
+      "rating": "61",
+      "length": 98,
+      "genre": "Rom Com",
+      "image": "images/wimbledon.jpeg"
+    },
+    {
+      "name": "Divergent",
+      "rating": "41",
+      "length": 139,
+      "genre": "Dystopian",
+      "image": "images/divergent.jpeg"
+    },
+    {
+      "name": "The Proposal",
+      "rating": "45",
+      "length": 108,
+      "genre": "Rom Com",
+      "image": "images/the proposal.jpeg"
+    },
+    {
+      "name": "Abduction",
+      "rating": "5",
+      "length": 106,
+      "genre": "Action",
+      "image": "images/abduction.jpeg"
+    },
+    {
+      "name": "The Perks of Being a Wallflower",
+      "rating": "85",
+      "length": 105,
+      "genre": "Drama",
+      "image": "images/perks of being a wallflower.jpeg"
+    },
+    {
+      "name": "Mamma Mia",
+      "rating": "55",
+      "length": 108,
+      "genre": "Musical",
+      "image": "images/mamma mia.jpeg"
+    },
+    {
+      "name": "The Sisterhood of the Traveling Pants",
+      "rating": "77",
+      "length": 119,
+      "genre": "Drama",
+      "image": "images/sisterhood.jpeg"
+    },
+    {
+      "name": "La La Land",
+      "rating": "91",
+      "length": 128,
+      "genre": "Musical",
+      "image": "images/la la land.png"
+    },
+    {
+      "name": "My Best Friend's Wedding",
+      "rating": "73",
+      "length": 105,
+      "genre": "Rom Com",
+      "image": "images/my-best-friends-wedding.jpeg"
+    },
+    {
+      "name": "John Wick",
+      "rating": "86",
+      "length": 101,
+      "genre": "Action",
+      "image": "images/john wick.jpeg"
+    },
+    {
+      "name": "Fool's Gold",
+      "rating": "11",
+      "length": 113,
+      "genre": "Rom Com",
+      "image": "images/fools gold.jpeg"
+    },
+    {
+      "name": "The Intern",
+      "rating": "59",
+      "length": 121,
+      "genre": "Drama",
+      "image": "images/the intern.jpeg"
+    }
+  ]
+  
